@@ -1,6 +1,6 @@
 # 🎵 Music‑School
-
-A modern web application built with **Next.js** and **TypeScript**, designed for managing or showcasing a music school platform. *(Add a more specific description here)*
+A modern web application built with **Next.js** and **TypeScript**, designed for managing or showcasing a music school platform. 
+<img width="1349" height="640" alt="Screenshot 2025-09-01 at 14-41-22 Create Next App" src="https://github.com/user-attachments/assets/0160b705-96e2-4c44-bffe-d5c01dd25970" />
 
 ---
 
